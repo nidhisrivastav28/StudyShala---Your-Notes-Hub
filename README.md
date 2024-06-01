@@ -6,8 +6,10 @@ This project is a comprehensive note-sharing application designed for educationa
 
 ## Features
 
-- **Rich Text Editor**: Allows users to create and format notes with text, images, and links.
-- **Note Sharing**: Enables users to share notes with others and manage permissions for collaboration.
+- **Admin Uploads**: Admin can upload course-related notes, subjects, books, and YouTube links.
+- **Student Access**: Students can access and download notes, books, and PDFs.
+- **Rich Text Editor**: Allows admins to create and format notes with text, images, and links.
+- **Note Sharing**: Enables sharing of notes with students, ensuring controlled access and collaboration.
 - **Tagging System**: Facilitates easy categorization and retrieval of notes.
 - **Advanced Search**: Implements robust search functionality to find notes by keywords, tags, or authors.
 - **User Accounts**: Provides personalized profiles for students and educators to manage their notes.
@@ -30,9 +32,9 @@ This project is a comprehensive note-sharing application designed for educationa
 
 1. **Open the application** in a web browser.
 2. **Register and create a user profile** to manage your notes.
-3. **Create, edit, and organize notes** using the rich text editor.
-4. **Share notes** with other users and manage permissions.
-5. **Use tags and search functionality** to find notes quickly and efficiently.
+3. **Admins**: Upload course-related notes, books, and YouTube links.
+4. **Students**: Access and download notes, books, and PDFs.
+5. **Use search functionality** to find notes quickly and efficiently.
 
 ## Dependencies
 
@@ -42,10 +44,6 @@ This project is a comprehensive note-sharing application designed for educationa
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests. Please follow the project's coding standards and guidelines.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
